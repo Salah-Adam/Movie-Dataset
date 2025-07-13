@@ -7,7 +7,7 @@ Power BI Based Project
   - The main purpose of this project was to practice my Power BI skill.
     
 ## Dataset Used
-   - <a href="">Dataset</a>
+   - <a href="https://github.com/Salah-Adam/Movie-Dataset/blob/main/Movie-Data.xlsx">Dataset</a>
 
 ## 🛠️ Tools Used
 - Power BI (Data Cleaning, DAX, Visualization)
@@ -21,7 +21,7 @@ Power BI Based Project
   - Movies with The least Box Office revenue are released in **2015**.
   
 ## Dashboard
-- <a href="">View Dashboard</a>
+- <a href="https://github.com/Salah-Adam/Movie-Dataset/blob/main/dashboard.png">View Dashboard</a>
 ##### The dashboard provides:
   - ✅ Average box office revenue by combined genres
   - ✅ Top 5 **most** and **least** profitable movies
